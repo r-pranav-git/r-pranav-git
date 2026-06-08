@@ -1,14 +1,28 @@
-# 👋 R Pranav
+<div align="center">
 
-<p align="center">
+# 🚀 R PRANAV
+
+### MCA Student • University of Kerala BCA First Rank Holder • Future Software Engineer
+
+<p>
+  <img src="https://img.shields.io/badge/BCA-First%20Rank-gold?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CGPA-10.00-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCA-TKM%20College-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSI-Student%20Representative-purple?style=for-the-badge" />
+</p>
+
+<p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=R+Pranav;MCA+Student;University+of+Kerala+BCA+First+Rank+Holder;Java+Developer;Full-Stack+Developer;Future+Software+Engineer" />
 </p>
 
-<p align="center">
+<p>
   <a href="https://r-pranav-git.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
   </a>
 </p>
+
+</div>
 
 ---
 
@@ -16,9 +30,7 @@
 
 🥇 Secured First Rank in BCA under the University of Kerala across all six semesters
 
-🏆 University of Kerala BCA First Rank Holder
-
-🌐 Portfolio: https://r-pranav-git.github.io/
+🌐 Portfolio: [r-pranav-git.github.io](https://r-pranav-git.github.io/)
 
 💻 Passionate about Java, Python, DSA, Full-Stack Development, and Machine Learning
 
@@ -55,15 +67,19 @@ Goal         : Software Engineer at a Product-Based Company
 ## $ cat current_goals.txt
 
 ```bash
-[✓] Maintain 10 CGPA
+[✓] Achieve University First Rank in BCA
 
-[✓] Strengthen Java Programming
+[✓] Maintain a Perfect 10.00 CGPA in MCA
+
+[✓] Build Multiple Academic and Full-Stack Projects
 
 [ ] Solve 50+ LeetCode Problems
 
 [ ] Build Advanced Java Projects
 
 [ ] Develop End-to-End Machine Learning Projects
+
+[ ] Secure a Software Engineering Placement
 
 ```
 
@@ -157,9 +173,9 @@ Skills:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=r-pranav-git\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=r-pranav-git&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r-pranav-git\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r-pranav-git&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=r-pranav-git)
 
@@ -187,7 +203,7 @@ and preparing for a career in software engineering.
 
 ---
 
-![](https://komarev.com/ghpvc/?username=r-pranav-git\&color=blue)
+![](https://komarev.com/ghpvc/?username=r-pranav-git&color=blue)
 
 ## Connect With Me
 
