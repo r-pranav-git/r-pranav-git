@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 R PRANAV
+#  R PRANAV
 
 ### MCA Student • University of Kerala BCA First Rank Holder • Future Software Engineer
 
