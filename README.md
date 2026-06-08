@@ -1,14 +1,24 @@
-# 👋 Pranav R
+# 👋 R Pranav
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Pranav+R;MCA+Student;University+of+Kerala+BCA+First+Rank+Holder;Java+Developer;Full-Stack+Developer;Machine+Learning+Enthusiast;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=R+Pranav;MCA+Student;University+of+Kerala+BCA+First+Rank+Holder;Java+Developer;Full-Stack+Developer;Future+Software+Engineer" />
+</p>
+
+<p align="center">
+  <a href="https://r-pranav-git.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
 🎓 MCA Student at TKM College of Engineering, Kollam
 
+🥇 Secured First Rank in BCA under the University of Kerala across all six semesters
+
 🏆 University of Kerala BCA First Rank Holder
+
+🌐 Portfolio: https://r-pranav-git.github.io/
 
 💻 Passionate about Java, Python, DSA, Full-Stack Development, and Machine Learning
 
@@ -19,13 +29,13 @@
 ## $ whoami
 
 ```bash
-Name        : Pranav R
-Education   : Master of Computer Applications (MCA)
-College     : TKM College of Engineering, Kollam
-Current CGPA: 10.00 / 10.00
-Background  : University of Kerala BCA First Rank Holder
-Focus       : DSA | Java | Python | Full-Stack Development | Machine Learning
-Goal        : Software Engineer at a Product-Based Company
+Name         : R Pranav
+Education    : Master of Computer Applications (MCA)
+College      : TKM College of Engineering, Kollam
+Current CGPA : 10.00 / 10.00 (MCA)
+Background   : University of Kerala BCA First Rank Holder
+Focus        : DSA | Java | Python | Full-Stack Development | Machine Learning
+Goal         : Software Engineer at a Product-Based Company
 ```
 
 ---
@@ -34,7 +44,7 @@ Goal        : Software Engineer at a Product-Based Company
 
 🏆 University of Kerala BCA First Rank Holder
 
-🏆 10.00 CGPA in MCA (Current)
+🏆 Perfect 10.00 CGPA in MCA
 
 🏅 CSI Student Representative
 
@@ -53,11 +63,8 @@ Goal        : Software Engineer at a Product-Based Company
 
 [ ] Build Advanced Java Projects
 
-[ ] Learn Spring Boot
-
 [ ] Develop End-to-End Machine Learning Projects
 
-[ ] Secure a Software Engineering Placement
 ```
 
 ---
@@ -88,7 +95,9 @@ Git • GitHub • VS Code
 
 ```yaml
 Tech Stack: PHP, MySQL
-Description: Web application for managing placements,
+
+Description:
+Web application for managing placements,
 internships, student records, and recruitment activities.
 ```
 
@@ -96,30 +105,38 @@ internships, student records, and recruitment activities.
 
 ```yaml
 Tech Stack: Django, Python, NLP
-Description: NLP-based complaint management platform that
-classifies complaints as Positive, Negative, or Neutral and
-provides analytics dashboards for monitoring and insights.
+
+Description:
+NLP-based complaint management platform that classifies
+complaints as Positive, Negative, or Neutral and provides
+analytics dashboards for monitoring and insights.
 ```
 
 ### 📌 AI Voice Agent
 
 ```yaml
 Tech Stack: TypeScript
-Description: AI-powered voice interaction system.
+
+Description:
+AI-powered voice interaction system.
 ```
 
 ### 📌 AIKYAM Kudumbashree Automation System
 
 ```yaml
 Tech Stack: Django, Python
-Description: Automation platform for Kudumbashree activities.
+
+Description:
+Automation platform for Kudumbashree activities.
 ```
 
 ### 📌 Car Rental Management System
 
 ```yaml
 Tech Stack: PHP, MySQL
-Description: Vehicle rental and booking management system.
+
+Description:
+Vehicle rental and booking management system.
 ```
 
 ---
@@ -168,21 +185,24 @@ Building software, solving problems, and learning continuously.
 Focused on academic excellence, practical development,
 and preparing for a career in software engineering.
 
-```
-
 ---
 
-![](https://komarev.com/ghpvc/?username=r-pranav-git&color=blue)
+![](https://komarev.com/ghpvc/?username=r-pranav-git\&color=blue)
 
 ## Connect With Me
 
-📧 Email: pranavrajeev2021@gmail.com
+🌐 Portfolio: [r-pranav-git.github.io](https://r-pranav-git.github.io/)
 
-💼 LinkedIn: [R Pranav ](https://www.linkedin.com/in/pranavrajeev/)
+📧 Email: [pranavrajeev2021@gmail.com](mailto:pranavrajeev2021@gmail.com)
 
-💻 GitHub: https://github.com/r-pranav-git
+💼 LinkedIn: [R Pranav](https://www.linkedin.com/in/pranavrajeev/)
+
+🏆 LeetCode: [CodePranav](https://leetcode.com/u/CodePranav/)
+
+🏆 HackerRank: [Pranav](https://www.hackerrank.com/profile/pranavrajeev2021)
+
+💻 GitHub: [r-pranav-git](https://github.com/r-pranav-git)
 
 ---
 
 *"Consistency beats intensity. Progress compounds daily."*
-```
