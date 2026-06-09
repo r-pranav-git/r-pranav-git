@@ -173,11 +173,11 @@ Skills:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=r-pranav-git&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=r-pranav-git&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r-pranav-git&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r-pranav-git&layout=compact&theme=github_dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=r-pranav-git)
+![GitHub Streak](https://streak-stats.demolab.com?user=r-pranav-git&theme=github-dark-blue)
 
 ---
 
