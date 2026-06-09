@@ -2,7 +2,7 @@
 
 #  R PRANAV
 
-### MCA Student • University of Kerala BCA First Rank Holder • Future Software Engineer
+### MCA Student • University of Kerala BCA First Rank Holder • Software Engineer
 
 <p>
   <img src="https://img.shields.io/badge/BCA-First%20Rank-gold?style=for-the-badge" />
